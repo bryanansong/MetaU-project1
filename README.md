@@ -53,7 +53,7 @@ Estimated time spent: 10 hours spent in total
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-`ADD_EMBEDDED_CODE_HERE`
+(https://www.loom.com/share/eaca3f22c63a4658a70580ffafec4a95)
 
 ### Reflection
 
